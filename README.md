@@ -39,7 +39,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e
    Bot que realiza a soma diária de comprovantes Pix.
 
 2. **[Linkup](#)**  
-   Software que evita a queda de chips de celulares e seu encaminhamento para análise.
+   Um software avançado que previne a queda de chips em dispositivos móveis, eliminando o encaminhamento desnecessário para análise. Para mais informações ou para adquirir o produto, entre em contato..
 
 3. **[Programação de Servidores NAS](#)**  
    Configuração e automação de servidores NAS para gerenciamento eficiente de arquivos e backups.
