@@ -50,6 +50,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e
 
 - **WhatsApp:** [+55 53 99705-0554](https://wa.me/5553997050554)  
 - **Email:** [gWerhly@outlook.com.br](mailto:gWerhly@outlook.com.br)  
+- **LinkedIn:** [Gabriel Borges Werhli](https://www.linkedin.com/in/gabriel-borges-werhli-7a907835a/)
 
 ---
 
