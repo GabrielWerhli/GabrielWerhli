@@ -41,13 +41,15 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e
 2. **[Linkup](#)**  
    Software que evita a queda de chips de celulares e seu encaminhamento para análise.
 
+3. **[Programação de Servidores NAS](#)**  
+   Configuração e automação de servidores NAS para gerenciamento eficiente de arquivos e backups.
+
 ---
 
 ## Contato
 
 - **WhatsApp:** [+55 53 99705-0554](https://wa.me/5553997050554)  
 - **Email:** [gWerhly@outlook.com.br](mailto:gWerhly@outlook.com.br)  
-- **Instagram:** [@_gwerhli](https://www.instagram.com/_gwerhli/)
 
 ---
 
