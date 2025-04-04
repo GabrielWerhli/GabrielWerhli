@@ -35,7 +35,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e
 
 ## Projetos em Destaque
 
-1. **[Bot-Pix](#)**  
+1. **[Bot Pix](https://github.com/GabrielWerhli/Bot-Pix)**  
    Bot que realiza a soma diária de comprovantes Pix.
 
 2. **[Linkup](#)**  
